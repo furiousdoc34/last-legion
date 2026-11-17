@@ -1,0 +1,25 @@
+{
+  "name": "Last Legion",
+  "short_name": "Last Legion",
+  "description": "Hold Harrow Gate against the Pale Engines. Offline tower defense.",
+  "start_url": "/last-legion/",
+  "scope": "/last-legion/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#12161b",
+  "theme_color": "#12161b",
+  "icons": [
+    {
+      "src": "/last-legion/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/last-legion/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
